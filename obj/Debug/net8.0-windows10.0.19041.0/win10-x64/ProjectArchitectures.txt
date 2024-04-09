@@ -1,0 +1,1 @@
+D:\duh_nu\3Ai\PAM2\DiceRoller\DiceRoller\DiceRoller.csproj;x64
